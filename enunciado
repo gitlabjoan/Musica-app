@@ -1,0 +1,14 @@
+1. subir al git-hub
+2. array de canciones
+[
+    {nombre:'', artistas:'', anio=''},
+]
+3. fichero canciones.json --fichero
+4. app.js
+5. canciones.js -- fichero
+    -crearCancion
+    - leerCancion a parrtir del titulo
+    - editarArtista a partir del titulo
+    - borrarCancion a partir del titulo
+    - listarCanciones listar todas lac canciones
+    - ordenarCanciones según artirsa o año
